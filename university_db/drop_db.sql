@@ -3,5 +3,3 @@
 
 -- Step 2: The IF EXISTS clause prevents errors if the database doesn't exist
 DROP DATABASE IF EXISTS `UniversityDB`;
-
-
