@@ -1,8 +1,3 @@
--- Step 1: Drop the database if needed
--- Be cautious! This is irreversible.
+-- Step 1: Drop database safely
+DROP DATABASE IF EXISTS UniversityDB;
 
--- Ensure you're connected to the database explicitly
-USE `UniversityDB`;
-
--- Drop the database safely
-DROP DATABASE IF EXISTS `UniversityDB`;
