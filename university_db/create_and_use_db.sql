@@ -7,5 +7,3 @@ USE `UniversityDB`;
 -- Step 3: Verify the active database
 SELECT DATABASE();
 
-
-
